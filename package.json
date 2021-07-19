@@ -1,0 +1,18 @@
+{
+  "name": "bib_doi_updater",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@citation-js/plugin-ris": "^0.5.1",
+    "@orcid/bibtex-parse-js": "^0.0.25",
+    "axios": "^0.21.1",
+    "citation-js": "^0.5.1",
+    "reflib": "^1.8.5"
+  }
+}
